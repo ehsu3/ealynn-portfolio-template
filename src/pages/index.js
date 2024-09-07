@@ -24,7 +24,7 @@ function HomepageHeader() {
           className="button button--secondary button--lg"
           to="/blog/affordances_and_signifiers_1"
         >
-          Example Blog
+          My Blogposts
         </Link>
       </div>
     </header>
