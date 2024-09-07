@@ -7,11 +7,13 @@ const config = {
   tagline: "Showcasing My Work and Thoughts",
   favicon: "img/favicon.ico",
 
-  url: "https://your-domain.com", // Replace with your actual domain
-  baseUrl: "/",
+  url: "https://ehsu3.github.io/", // Replace with your actual domain
+  baseUrl: "/ealynn-portfolio-template/",
 
   organizationName: "ehsu3", // Replace with your GitHub org/user name
-  projectName: "my-ui-portfolio", // Replace with your repo/project name
+  projectName: "ealynn-portfolio-template", // Replace with your repo/project name
+  deploymentBranch: "main",
+  trailingSlash: true,
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
