@@ -22,7 +22,7 @@ function HomepageHeader() {
         <br></br>
         <Link
           className="button button--secondary button--lg"
-          to="/blog/example-blog-post"
+          to="/blog/affordances_and_signifiers_1"
         >
           Example Blog
         </Link>
