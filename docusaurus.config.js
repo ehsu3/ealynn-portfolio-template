@@ -10,7 +10,7 @@ const config = {
   url: "https://your-domain.com", // Replace with your actual domain
   baseUrl: "/",
 
-  organizationName: "your-org", // Replace with your GitHub org/user name
+  organizationName: "ehsu3", // Replace with your GitHub org/user name
   projectName: "my-ui-portfolio", // Replace with your repo/project name
 
   onBrokenLinks: "throw",
