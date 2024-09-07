@@ -1,7 +1,7 @@
 ---
 title: Affordances & Signifiers 2
 slug: /affordances_and_signifiers_2
-date: 2024-08-30T12:44:00Z
+date: 2024-08-30T12:45:00Z
 tags: [Tutorial]
 ---
 
@@ -37,7 +37,7 @@ The easiest and shortest path to get to our profile is the first option which co
 
 
 4. Perform (the action sequence)
-![Alt text](../static/img/strygrph_dropdown_0903.png)
+![Alt text](../static/img/strygph_dropdown_0903.png)
 
 Here, I've clicked on my profile image and am hovering over "Profile". After clicking the button, I am brought to a new page. The action has been successfully performed.
 
@@ -45,7 +45,7 @@ Here, I've clicked on my profile image and am hovering over "Profile". After cli
 5. Perceive (what happened -- the state of the world)
 
 This is what I see after I perform step #4:
-![Alt text](../static/img/strygrph_dropdown_0903.png)
+![Alt text](../static/img/strygph_read_0903.png)
 
 What has happened is that I clicked on the "Profile" button and I now see a new page with lots of information. It looks like this page has a username, a list of books this person has read, some genre information, the books that have been read recently, and some books in a "To-Read Pile".
 
