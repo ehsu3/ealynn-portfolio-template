@@ -1,11 +1,11 @@
 ---
-title: Don't Make Me Think
+title: Don't Make Me Think: Designing for Focus
 slug: /dmmt_analysis
 date: 2024-09-04T22:10:00Z
 tags: [WordJournal]
 ---
 
-# Don't Make me Think: Designing for Spot Checks
+# Don't Make Me Think: Designing for Spot Checks
 
 ![Alt text](https://images.unsplash.com/photo-1517926112623-f32a800790d4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D "focused")
 
@@ -24,4 +24,5 @@ The word "focus" is important because, in my career, it will remind me to focus 
 ---
 
 Photo by https://unsplash.com/@lenatrn Agence Olloweb on Unsplash -- I chose this image because it demonstrates how users only focus on a couple of things when viewing a website (they don't look at ALL the details you include on a page)
+
 Krug, Steve author. (2014). Don't make me think, revisited : a common sense approach to Web usability. [Berkeley, Calif.] :New Riders,
