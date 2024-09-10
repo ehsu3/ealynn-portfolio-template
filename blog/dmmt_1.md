@@ -1,7 +1,7 @@
 ---
-title: Don't Make Me Think: Designing for Focus
+title: Don't Make Me Think
 slug: /dmmt_analysis
-date: 2024-09-04T22:10:00Z
+date: 2024-09-09T21:15:00Z
 tags: [WordJournal]
 ---
 
@@ -10,7 +10,8 @@ tags: [WordJournal]
 ![Alt text](https://images.unsplash.com/photo-1517926112623-f32a800790d4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D "focused")
 
 
-"Focus" -- Chapter 3
+Word: "Focus" 
+Section: Chapter 3
 
 I chose the word Focus because it represents how users interact with web applications -- they don't scan and analyze EVERYTHING on a given page, but instead focus on what stands out. Whether that be big, bold font or graphics scattered across the page, the job of a UI/UX designer is to help guide the user's eye to the important actions/tasks they might have to perform on a given page. Much like how different font sizes and styles are used in newspapers to draw the eye to different sections (e.g. having large text span 3 text blocks indicates that all three text blocks refer to the title above), a website's format should do the same. A few tips I learned from this reading about designing a web page are: 
 - Create a hierarchy (the more important something is, the more prominent it should be on a page)
