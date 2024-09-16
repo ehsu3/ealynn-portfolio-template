@@ -1,6 +1,6 @@
 ---
 title: Reflecting on Design Principles
-slug: /colors_1
+slug: /design_concepts
 date: 2024-09-16T15:09:00Z
 tags: [FreeForm]
 ---
