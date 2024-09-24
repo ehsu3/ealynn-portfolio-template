@@ -1,6 +1,6 @@
 ---
 title: A Study in Color
-slug: /design_concepts
+slug: /color_study
 date: 2024-09-23T21:17:00Z
 tags: [FreeForm]
 ---
