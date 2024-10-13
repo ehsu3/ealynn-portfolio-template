@@ -22,4 +22,6 @@ Each of the portfolios has something different to say -- some people want to com
 
 
 Photo by Hal Gatewood on Unsplash (https://unsplash.com/@halacious) - I chose this picture because it shows someone designing a couple of potential modules/screens for a website or mobile application. The process of designing a portfolio is similar in the sense that you have to think through what will look good and feel good before you start developing it.
+
+
 Klaudia Simon, Á. I. (2024, October 8). 31 inspiring UX portfolio examples - with a great guide for creating yours. UXfolio Blog. https://blog.uxfol.io/ux-portfolio-examples/ 
