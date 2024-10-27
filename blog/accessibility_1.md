@@ -7,7 +7,7 @@ tags: [FreeForm]
 
 # Inclusive Design 1
 
-![Alt text](https://images.unsplash.com/photo-1659321379744-7a63c1706eaa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D "stair case with "Watch your step" written in English and Chinese")
+![Alt text](https://images.unsplash.com/photo-1659321379744-7a63c1706eaa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D "stair case with 'Watch your step' written in English and Chinese")
 
 Making designs inclusive for those with disabilities is often seen as an "extra" task piled on the plate of web developers and designers. Sometimes it feels like working on accessibility creates others problems for expressing a cohesive design story, when in actuality, the two often can work hand-in-hand. One of the biggest culprits for this misunderstanding can be colorblind users and website color schemes. 
 
