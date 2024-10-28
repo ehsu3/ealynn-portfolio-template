@@ -5,7 +5,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 const config = {
   title: "Ealynn's UI Portfolio",
   tagline: "A Look Into my 2024 Fall Portfolio",
-  favicon: "img/favicon.ico",
+  favicon: "img/logo.png",
 
   url: "https://ehsu3.github.io/", // Replace with your actual domain
   baseUrl: "/ealynn-portfolio-template/",
@@ -48,7 +48,7 @@ const config = {
         title: "My UI Portfolio",
         logo: {
           alt: "My UI Portfolio Logo",
-          src: "img/logo.svg",
+          src: "img/logo.png",
         },
         items: [
           { to: "/about-me", label: "About Me", position: "left" },
@@ -56,7 +56,7 @@ const config = {
           { to: "/blog", label: "Blog", position: "left" },
           { to: "/contact", label: "Contact", position: "right" },
           {
-            href: "https://github.com/your-org/my-ui-portfolio",
+            href: "https://github.com/ehsu3/",
             label: "GitHub",
             position: "right",
           },
@@ -82,7 +82,7 @@ const config = {
             items: [
               {
                 label: "GitHub",
-                href: "https://github.com/your-org/my-ui-portfolio",
+                href: "https://github.com/ehsu3",
               },
             ],
           },
