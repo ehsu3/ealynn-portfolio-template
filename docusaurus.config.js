@@ -45,15 +45,16 @@ const config = {
     ({
       image: "img/docusaurus-social-card.jpg",
       navbar: {
-        title: "My UI Portfolio",
+        title: "Ealynn's UI Portfolio",
         logo: {
-          alt: "My UI Portfolio Logo",
+          alt: "Ealynn's UI Portfolio Logo",
           src: "img/logo.png",
         },
         items: [
-          { to: "/about-me", label: "About Me", position: "left" },
-          { to: "/projects", label: "Projects", position: "left" },
-          { to: "/blog", label: "Blog", position: "left" },
+          { to: "/about-me", label: "About Me", position: "right" },
+          { to: "/projects", label: "Projects", position: "right" },
+          { to: "/blog", label: "Blog", position: "right" },
+          { to: "/", label: "|", position: "right" },
           { to: "/contact", label: "Contact", position: "right" },
           {
             href: "https://github.com/ehsu3/",
@@ -87,7 +88,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My UI Portfolio. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Ealynn's Portfolio. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
