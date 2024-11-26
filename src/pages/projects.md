@@ -18,3 +18,4 @@ slug: /projects
 - [Interactive Prototype](https://www.figma.com/design/doacDGNSpOWhEmGeNBL5Ro/scrawl-3.0?node-id=0-1&t=54vGGaLbBslWIwTa-1)
 - [UI Mockups V.2](https://www.figma.com/design/sife6gfHFYzVPmL5Oye0yW/scrawl-5.0?node-id=1-7&t=FF0LF5fU0abdLSje-1)
     - We created this version after taking in user feedback from friends in the art community. 
+- [Scrawl Reflection Paper](../scrawl_reflection)
