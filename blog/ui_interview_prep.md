@@ -26,6 +26,6 @@ All three videos had great advice for UI interviews or interviews in general -- 
 Photo by https://unsplash.com/@cowomen on Unsplash -- This image shows an interview where the two girls could be looking at some designs on the laptop beside them and recording the meeting. This feels like it could be very fitting for this reflection since it shows an interview which is what we're preparing for.
 
 Citations: 
-- [Ricardo Hernandez Perez UX/UX Interview Questions with Answers & Tips (from a Google UX Desginer)](https://www.youtube.com/watch?v=j07li1MUIa4)
+- [Ricardo Hernandez Perez: UX/UX Interview Questions with Answers & Tips (from a Google UX Desginer)](https://www.youtube.com/watch?v=j07li1MUIa4)
 - [DesignWithArash: How to Ace Your UI/UX Design Interview | The Ultimate Guide](https://www.youtube.com/watch?v=ZtN3yHIWuRY)
 - [Charli Cheung: My Senior UX Design Interview Experience | tips, questions, prep, & more!](https://www.youtube.com/watch?v=5bT0-vZ9Hj4)
