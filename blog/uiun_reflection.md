@@ -7,7 +7,7 @@ tags: [FreeForm]
 
 # UI/UN Summit Reflection
 
-![Alt text](https://images.unsplash.com/photo-1508976594853-a50fce4ad397?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D "stair case with 'Watch your step' written in English and Chinese")
+![A mountain with a clear sky above it](https://images.unsplash.com/photo-1508976594853-a50fce4ad397?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D "a mountain")
 
 Recently, I took part in an Accessibility Workshop to help young designers better understand the importance of making websites accessible and some of the challenges that are associated with that -- such as prioritizing different changes for different groups with varying needs. It's difficult to accomodate every strategy to make a website as accessible as possible since everyone has different priorities and needs that would make the website work better for a specific group but maybe worse for others. Finding a good balance of changes that help multiple groups is what designers should aim to do, but doing so can be trickier than one might think. 
 
