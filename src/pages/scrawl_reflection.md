@@ -62,9 +62,11 @@ When it came to fonts, we wanted the logo to have a very “script”-esque hand
 
 For this project, we did two rounds of user testing: one with students, our colleagues, who don’t have a direct relationship to the purpose of our website but are technologically savvy, and one with people who are in the art industry or have engaged with art-specific social media in the past. These two rounds of testing would give us a variety of insights on how the site’s organization could be altered to better suit our target population and clear up any confusions on how to interact with the site. 
 
-Here I’ve attached a version of the prototype made before we performed user tests, aka what Katelyn and I put together after our initial round of user interviews before we began designing. 
+Here I’ve attached a version of the prototype made before we performed user tests, aka what Katelyn and I put together after our initial round of user interviews before we began designing. If you click the link below and go to the upper right corner to press the "play button" (triangle), you'll be able to interact with a very bare bones version of the site. Additionally, I've attached a gif that shows some of the main functionality you can explore when using the prototype below. There are more buttons that you can click on, but in the gif, I've shown a couple to try. 
 
 * [Scrawl Pre-User Tests](https://www.figma.com/design/doacDGNSpOWhEmGeNBL5Ro/scrawl-3.0?node-id=0-1&t=TffvE2URkA2bWv1p-1)
+
+![A gif of how to use the Scrawl 3.0 prototype.](../../static/img/scrawl_gif.gif)
 
 ### Round 1: Colleague Tests
 
