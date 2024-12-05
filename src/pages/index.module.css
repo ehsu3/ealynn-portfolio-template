@@ -21,3 +21,26 @@
   align-items: center;
   justify-content: center;
 }
+
+.background {
+  background: url("../../static/img/background.png") no-repeat center;
+  background-size: 100% 100%;
+  padding: 3em;
+}
+
+.p {
+  color: white;
+}
+
+.bigp {
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.title{
+  color: white;
+  font-size: 50px;
+  font-weight: bold;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

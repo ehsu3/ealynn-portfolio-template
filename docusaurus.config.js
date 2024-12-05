@@ -65,30 +65,30 @@ const config = {
       },
       footer: {
         style: "dark",
-        links: [
-          {
-            title: "About Me",
-            items: [{ label: "About Me", to: "/about-me" }],
-          },
-          {
-            title: "Projects",
-            items: [{ label: "Projects", to: "/projects" }],
-          },
-          {
-            title: "Blog",
-            items: [{ label: "Blog", to: "/blog" }],
-          },
-          {
-            title: "Community",
-            items: [
-              {
-                label: "GitHub",
-                href: "https://github.com/ehsu3",
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} Ealynn's Portfolio. Built with Docusaurus.`,
+        // links: [
+        //   {
+        //     title: "About Me",
+        //     items: [{ label: "About Me", to: "/about-me" }],
+        //   },
+        //   {
+        //     title: "Projects",
+        //     items: [{ label: "Projects", to: "/projects" }],
+        //   },
+        //   {
+        //     title: "Blog",
+        //     items: [{ label: "Blog", to: "/blog" }],
+        //   },
+        //   {
+        //     title: "Community",
+        //     items: [
+        //       {
+        //         label: "GitHub",
+        //         href: "https://github.com/ehsu3",
+        //       },
+        //     ],
+        //   },
+        // ],
+        copyright: `Copyright © ${new Date().getFullYear()} Ealynn Hsu's UI Portfolio. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,

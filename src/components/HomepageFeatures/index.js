@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Developer',
-    Svg: require('@site/static/img/programming.svg').default,
+    Svg: require('@site/static/img/computer.svg').default,
     description: (
       <>
         I've been pursuing a CS degree for three years thus far, giving me a 
@@ -25,10 +25,10 @@ const FeatureList = [
   },
   {
     title: 'Designer',
-    Svg: require('@site/static/img/design.svg').default,
+    Svg: require('@site/static/img/journal.svg').default,
     description: (
       <>
-        Though I only starte designing in university, I value the aesthetics of
+        Though I only started designing in university, I value the aesthetics of
         good website design and aim to show that in my works.
       </>
     ),

@@ -5,17 +5,17 @@ slug: /scrawl_reflection
 
 # Scrawl: A Reflection on Designing for Artists
 
-![A rough sketch of the Main feed page, which is a page that shows a piece of art on the left side and has the user’s information right of the image with the caption below the name and the ability to “like” the image via a heart icon or “comment” via a speech bubble icon.](../../static/img/scrawl_logo.png)
+![The Scrawl logo, featuring a circle with a cursive "S" and a pencil on the left and the word "scrawl" in cursive to the right of it.](../../static/img/scrawl_logo.png)
+
+## Brainstorming Ideas
+
+Katelyn and I draw as a hobby, often sharing art and participating in Art Fight, an online art competition where artists exchange art with one another. As such, we’ve dabbled in social media platforms such as Instagram and Cara, websites artists often use for sharing their works. However, we’ve found that using these platforms isn’t a seamless experience for the art community, and wanted to see what we could do to improve them. Having a site created for artists by artists, with systems customized for artists to do what they do best, such as a Commissions portal for artists to take commissions, would help improve the lives of artists by making it easier to perform the day-to-day tasks of a hobbyist or professional artist. Instead of using a general “one-size-fits-all” solution like Instagram which is meant to appeal to a wide audience, a social media platform tailored solely for artists would allow artists to find and market to the correct audiences. We performed a couple of user interviews to better understand our target audience so we could figure out their pain points and some requirements they’d have for a new art social media platform. We chose to design a desktop application since many digital artists use a computer to connect to art applications and connect their tablet to them. Additionally, a desktop application can be accessed via a mobile device or laptop, allowing for the most flexibility for artists. 
 
 
 ## The Parts We Play
 
 Throughout this project, Katelyn and I worked collaboratively on most major design elements and the site's overall layout. We often would meet on Zoom calls to divide the work to be accomplished or even to jointly work on the Figma together. In the early phases of the project, I worked on designing the following pages: Log-In, Main Feed, Profile, Commissions, and Commissions Requests. Katelyn was the primary designer behind the DMs, Notifications, Post Creation, and Individual Post pages. However, as we began doing the mock-ups in Figma, we started working on each other’s designed pages in a collaborative effort to improve the overall application. Furthermore, we separately worked on creating different assets of the UI, some notable ones being that Katelyn designed the icons and post format and I worked on the header and dropdown. After all the pages were initially designed, we spent a lot of time working collaboratively to decide what might need adjusting based on our intuition and future testing with colleagues. 
 
-
-## Brainstorming Ideas
-
-Katelyn and I draw as a hobby, often sharing art and participating in Art Fight, an online art competition where artists exchange art with one another. As such, we’ve dabbled in social media platforms such as Instagram and Cara, websites artists often use for sharing their works. However, we’ve found that using these platforms isn’t a seamless experience for the art community, and wanted to see what we could do to improve them. Having a site created for artists by artists, with systems customized for artists to do what they do best, such as a Commissions portal for artists to take commissions, would help improve the lives of artists by making it easier to perform the day-to-day tasks of a hobbyist or professional artist. Instead of using a general “one-size-fits-all” solution like Instagram which is meant to appeal to a wide audience, a social media platform tailored solely for artists would allow artists to find and market to the correct audiences. We performed a couple of user interviews to better understand our target audience so we could figure out their pain points and some requirements they’d have for a new art social media platform. We chose to design a desktop application since many digital artists use a computer to connect to art applications and connect their tablet to them. Additionally, a desktop application can be accessed via a mobile device or laptop, allowing for the most flexibility for artists. 
 
 ## User Story
 
@@ -25,19 +25,24 @@ The story we wrote in advance of designing the interface followed a full-time em
 
 To adhere to Rebecca’s needs, we needed to build a platform that allows users to easily look at the works of others while also being able to attend to their own social media account, specifically so they can take commissions from followers who might be interested in their style and works. We wanted the UI to be intuitive to use and follow many universal traits/aspects of social media sites so that it’s easy to swap to but also offer features that are unique to our application -- such as the Commissions page and Commission Requests portal. 
 
-### Sketches: 
-![A rough sketch of the Commissions Request page that we initially designed. This image displays a two-column view where the left column shows the users who are requesting commissions, and the right shows the commission itself in a “chat” format.](../../static/img/FP_comms.png)
-![A rough sketch of the Main feed page, which is a page that shows a piece of art on the left side and has the user’s information right of the image with the caption below the name and the ability to “like” the image via a heart icon or “comment” via a speech bubble icon.](../../static/img/FP_main.png)
+### Sketches
+| | |
+| ----- | ----- |
+| ![A rough sketch of the Commissions Request page that we initially designed. This image displays a two-column view where the left column shows the users who are requesting commissions, and the right shows the commission itself in a “chat” format.](../../static/img/FP_comms.png) | ![A rough sketch of the Main feed page, which is a page that shows a piece of art on the left side and has the user’s information right of the image with the caption below the name and the ability to “like” the image via a heart icon or “comment” via a speech bubble icon.](../../static/img/FP_main.png) |
+| | |
 
 One of the initial steps of this project was to create rough sketches of the application we wanted to design. Katelyn and I divided the pages we worked on sketching and would review them jointly to make sure they matched the vision of the project we wanted to design. In these sketches, we wanted to mimic the layout of classic social media sites like Instagram, to allow users to view the art in a comfortable and easy-to-navigate manner. As such, we chose to keep an Instagram-esque layout for the main page, the profile page, and the page where a post can be expanded. For the profile, our main goal was to allow users to display a lot of art in a simple format — allowing people to get a quick overview of the user’s work at a bird’s eye view. For the Commissions-related pages, we took inspiration from Commissions pages we’ve seen from other artists to display and request commissions. Mainly, we drew inspiration from the sites we’ve used before as artists or have seen other artists use and tried to wrap those into a couple of designs that may create a platform that’s approachable for anyone.
 
-### Initial Draft:
-![A Figma draft of the Commissions Request page that we initially designed. This image displays a two-column view where the left column shows the users who are requesting commissions, and the right shows the commission itself in a “chat” format.](../../static/img/FP_comms_draft.png)
-![A Figma draft of the Main feed page, which is a page that shows a piece of art on the left side and has the user’s information right of the image with the caption below the name and the ability to “like” the image via a heart icon or “comment” via a speech bubble icon.](../../static/img/FP_main_draft.png)
+### Initial Draft
+
+| | |
+| ----- | ----- |
+|![A Figma draft of the Commissions Request page that we initially designed. This image displays a two-column view where the left column shows the users who are requesting commissions, and the right shows the commission itself in a “chat” format.](../../static/img/FP_comms_draft.png) | ![A Figma draft of the Main feed page, which is a page that shows a piece of art on the left side and has the user’s information right of the image with the caption below the name and the ability to “like” the image via a heart icon or “comment” via a speech bubble icon.](../../static/img/FP_main_draft.png) |
+| | |
 
 Afterwards, we created a more refined version of our sketches in Figma that would better illustrate the website's main colors, layout, and design overall. Above, you can see the first phase of this Figma draft shown on two pages. Below, I've attached a link to the full Figma mockup so you can see all the pages we created based on our round of sketching. 
 
-### Figma Mockup 2.0:
+### Figma Mockup 2.0
 * [Click Here to View the Figma Mockup!](https://www.figma.com/design/pDaIbX1vtbzajjhYeQxZoB/scrawl-2.0?node-id=0-1&t=USGzRZgGtw7fFgwu-1)
 
 ---
@@ -105,3 +110,9 @@ Early on in the process of designing Scrawl, we were asked what the main values 
 Creativity can be seen via the main feed and the user’s ability to customize their Commissions page to fit their needs. Instead of being limited to a couple of “set-in-stone” options, Scrawl allows users to tailor the price and options to fit what the user wants to offer. Additionally, creativity is inherently part of an art website, and allowing artists to post their works and have them seen by others is a core value and goal of Scrawl as a whole. Additionally, the Explore page would be a place for artists to be able to see the works of others and gain inspiration, a core element of creativity. 
 
 The value of harmony can be seen via the Main Feed and Explore pages, DMs, and the ability to comment on posts. Our goal is to create many opportunities for artists to engage with one another via DMs if they want to discuss certain art pieces or ideas and the comment section to allow artists to support one another. Additionally, the Main Feed and Explore pages allow users to find new artists to support and connect with in an easy-to-use manner. All-in-all, the platform has many opportunities for users to find other artists to talk and connect with, allowing them to create a community they can share their art with harmoniously. 
+
+---
+
+## Conclusion
+
+At the end of this project, I'm left with a bittersweet appreciation for the work Katelyn and I put into the project, exploring how we can connect our interests in technology with the world of art. Even though I'm a rather novice artist especially on social media, having a safe and harmonious place to share what I create is really important to me and something I really want to see exist, especially given the number of moves artists have made across different platforms to try and find what they need and want out of a platform. In a way, it makes me think about the potential of creating that website and spending more time understanding the main struggles of being an artist in a technologically-centric world. And while Scrawl may just be a design for now, I hope to see other like-minded people thinking about artists in the future! 
