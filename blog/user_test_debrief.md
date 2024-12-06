@@ -2,7 +2,7 @@
 title: Debriefing User Tests
 slug: /debrief_user_tests
 date: 2024-10-22T23:15:00Z
-tags: [Tutorial]
+tags: [Tutorial, Practice, Advice]
 ---
 
 # User Tests

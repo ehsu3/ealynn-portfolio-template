@@ -2,7 +2,7 @@
 title: Understanding Colors
 slug: /colors_1
 date: 2024-09-15T12:15:00Z
-tags: [FreeForm]
+tags: [FreeForm, Colors]
 ---
 
 # The Complete Color Harmony (Pantone Edition)

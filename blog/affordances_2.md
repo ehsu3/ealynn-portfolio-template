@@ -2,7 +2,7 @@
 title: Affordances & Signifiers 2
 slug: /affordances_and_signifiers_2
 date: 2024-08-30T12:45:00Z
-tags: [Tutorial]
+tags: [Tutorial, DesignConcepts]
 ---
 
 # Affordances and Signifiers Pt. 2: The Design of Everday Things

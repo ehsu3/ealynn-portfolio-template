@@ -2,7 +2,7 @@
 title: Tips for a Stunning UI Portfolio
 slug: /ux_portfolio
 date: 2024-10-13T14:30:00Z
-tags: [FreeForm]
+tags: [FreeForm, Advice]
 ---
 
 # Creating a UX Portfolio

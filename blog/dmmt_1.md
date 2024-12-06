@@ -2,7 +2,7 @@
 title: Don't Make Me Think
 slug: /dmmt_analysis
 date: 2024-09-09T21:15:00Z
-tags: [WordJournal]
+tags: [WordJournal, DesignConcepts]
 ---
 
 # Don't Make Me Think: Designing for Spot Checks

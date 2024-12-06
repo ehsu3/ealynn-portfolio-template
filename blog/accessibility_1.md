@@ -2,7 +2,7 @@
 title: Creating Inclusive Designs
 slug: /accessibility_1
 date: 2024-10-27T11:20:00Z
-tags: [FreeForm]
+tags: [FreeForm, Accessibility]
 ---
 
 # Inclusive Design 1

@@ -2,7 +2,7 @@
 title: Finding Inspiration in Art
 slug: /finding_inspiration
 date: 2024-09-26T21:51:00Z
-tags: [FreeForm]
+tags: [FreeForm, Practice]
 ---
 
 # Finding Inspiration in Art

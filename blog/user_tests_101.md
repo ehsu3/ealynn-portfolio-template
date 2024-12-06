@@ -2,7 +2,7 @@
 title: What are User Tests?
 slug: /user_testing_101
 date: 2024-10-23T17:45:00Z
-tags: [FreeForm]
+tags: [FreeForm, DesignConcepts]
 ---
 
 # User Tests

@@ -2,7 +2,7 @@
 title: Preparing for UI Interviews
 slug: /ui_interviews
 date: 2024-12-01T21:51:00Z
-tags: [FreeForm]
+tags: [FreeForm, Advice]
 ---
 
 # Preparing for UI Interviews

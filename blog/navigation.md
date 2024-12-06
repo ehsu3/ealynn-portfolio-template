@@ -2,7 +2,7 @@
 title: Navigating Sites & Determining Core Values
 slug: /navigation_and_core_values
 date: 2024-10-05T15:23:00Z
-tags: [FreeForm]
+tags: [FreeForm, DesignConcepts, Advice]
 ---
 
 # Don't Make Me Think

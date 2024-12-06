@@ -2,7 +2,7 @@
 title: Reflecting on Design Principles
 slug: /design_concepts
 date: 2024-09-16T15:09:00Z
-tags: [FreeForm]
+tags: [FreeForm, DesignConcepts]
 ---
 
 # Presentation ZEN

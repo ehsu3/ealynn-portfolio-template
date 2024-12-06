@@ -2,7 +2,7 @@
 title: Understanding Constraints
 slug: /accessibility_2
 date: 2024-10-27T11:51:00Z
-tags: [FreeForm]
+tags: [FreeForm, Accessibility]
 ---
 
 # Inclusive Design 2

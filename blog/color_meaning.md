@@ -2,7 +2,7 @@
 title: The Meaning of Colors
 slug: /colors_2
 date: 2024-09-15T14:10:00Z
-tags: [FreeForm]
+tags: [FreeForm, ColorStudy]
 ---
 
 # Color Meaning vs Color Personality

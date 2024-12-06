@@ -2,7 +2,7 @@
 title: Tips for Giving Feedback
 slug: /giving_feedback
 date: 2024-10-13T14:58:00Z
-tags: [WordJournal]
+tags: [WordJournal, Advice]
 ---
 
 # Giving Feedback

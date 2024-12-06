@@ -2,7 +2,7 @@
 title: Schneiderman & Info Org
 slug: /schneiderman_info_org
 date: 2024-09-04T22:10:00Z
-tags: [DirectedAnalysis]
+tags: [DirectedAnalysis, DesignConcepts]
 ---
 
 # Schneiderman: Understanding How We Interact with Data

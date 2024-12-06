@@ -2,7 +2,7 @@
 title: Creating Mockups
 slug: /creating_mockups
 date: 2024-10-13T15:37:00Z
-tags: [FreeForm]
+tags: [FreeForm, Practice]
 ---
 
 # Creating Mockups
