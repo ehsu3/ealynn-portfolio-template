@@ -11,13 +11,13 @@ One of the biggest questions I had when I opened the portfolio template I'd be w
 
 To me, a portfolio is a place to show yourself off, a catwalk where you're the only model on stage displaying what you've done in the past and your goals for the future. People come to your portfolio to learn about you and that's TERRIFYING. How can someone convey themselves wholly online via a couple of pages and a smattering of writings about yourself and what you've learned from papers? Well, that's what I attempted to do and hopefully convey via my portfolio. 
 
-## Designing My Portfolio
+### Designing My Portfolio
 
 As far as design elements go, I always knew I wanted blue to be my main color. From a young age, I've always felt drawn to blue, as a calm and grounding color but also one that conveys trust and loyalty. These are values that I've always tried to live and as such, wanted them at the core of my site. As for the particular shades of blue, I'm a sucker for pastels, their lightness always has felt welcoming so I wanted to include that across the graphics on my man page and in my logo -- whose shape we'll talk about later. And the almost teal shades I use in the main header of the home page just felt fitting. I didn't want blues that were too cool and "distant", but warmer-toned ones that are inviting, hence the almost teal-like color I landed on. 
 
 On the logo and the handful of butterflies on the right of the page, these were decided upon based on an association I've always had from my friends. I'm not sure where the association originated from, but I like the symbolism they have, of being creatures of rebirth and transformation, who need time to grow and learn and emerge strong and beautiful. As such, I tried to make my initials, "EH", look like the side view of a butterfly flying and include some butterflies across my header, leading up to the links you can visit to learn more about me and my own "transformations" via my projects and learnings from my blogs. 
 
-## My Design Values
+### My Design Values
 
 When designing my portfolio, I wanted to make sure that I came across as the things that were important to me. One thing I fear is being viewed as a 2D person, someone with one or two skills to share with others and that's it. I think my ability to delve into a variety of topics and areas in life is one of my strengths and something I use a lot to learn more about disparate fields that don't usually meld or interact with one another. On my front page specifically, I highlight some of these strengths. Not only am I a developer with technical experience I gained via university, but I'm also an artist and musician, and a designer. I believe these skills combined are what motivate me to design and probably shape a lot of designs that I make. As such, I wanted to make sure these values were shown on my front page before people start delving into my works. 
 
@@ -35,6 +35,6 @@ These blogs have been organized by a few tags I've included -- to help you find 
 
 Please feel free to give these pages a peruse. You'll also see that the blogs have additional tags, such as #FreeForm or #WordJournal. These are just different ways I've formatted posts, either as a "stream of consciousness" page where I've written down all my thoughts based on a paper or video, or a couple blogs are written with more structure as you'll be able to find if you explore! 
 
-## The Final Product
+### The Final Product
 
 At the end of the day, I want my portfolio to be a reflection of me, visible via the writings in my blog, the projects I've worked on, and the design of the site itself. 

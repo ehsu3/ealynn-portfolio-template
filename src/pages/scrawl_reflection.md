@@ -35,10 +35,20 @@ One of the initial steps of this project was to create rough sketches of the app
 
 ### Initial Draft
 
-| | |
-| ----- | ----- |
+<table border="1">
+        <tr>
+            <td><img src="../../static/img/FP_comms_draft.png"
+                alt="A Figma draft of the Commissions Request page that we initially designed. This image displays a two-column view where the left column shows the users who are requesting commissions, and the right shows the commission itself in a “chat” format."></img>
+            </td>
+            <td><img src="../../static/img/FP_main_draft.png" 
+                alt="A Figma draft of the Main feed page, which is a page that shows a piece of art on the left side and has the user’s information right of the image with the caption below the name and the ability to “like” the image via a heart icon or “comment” via a speech bubble icon."></img>
+            </td>
+        </tr>
+</table>
+
+<!-- | | |
 |![A Figma draft of the Commissions Request page that we initially designed. This image displays a two-column view where the left column shows the users who are requesting commissions, and the right shows the commission itself in a “chat” format.](../../static/img/FP_comms_draft.png) | ![A Figma draft of the Main feed page, which is a page that shows a piece of art on the left side and has the user’s information right of the image with the caption below the name and the ability to “like” the image via a heart icon or “comment” via a speech bubble icon.](../../static/img/FP_main_draft.png) |
-| | |
+| | | -->
 
 Afterwards, we created a more refined version of our sketches in Figma that would better illustrate the website's main colors, layout, and design overall. Above, you can see the first phase of this Figma draft shown on two pages. Below, I've attached a link to the full Figma mockup so you can see all the pages we created based on our round of sketching. 
 

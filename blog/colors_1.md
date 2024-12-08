@@ -7,7 +7,7 @@ tags: [FreeForm, Colors]
 
 # The Complete Color Harmony (Pantone Edition)
 
-![Alt text](https://images.unsplash.com/photo-1631127887321-0a2cf902a002?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D "color choices")
+![Displays strips displaying different colors, similar to what you'd show to pick out a color of wallpaper for your house](https://images.unsplash.com/photo-1631127887321-0a2cf902a002?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D "color choices")
 
 One important part of getting into UI/UX is knowing how to communicate colors to an audience -- whether that's a product manager that you're recommending a color scheme to or some developers asking why you chose a particular color palette. As such, I think one of the most important parts of this section was learning how to "speak the language" of UI/UX designers when it comes to colors. As such, I wanted to outline a collection of the terms necessary when communicating color and examples on how to use them. 
 
