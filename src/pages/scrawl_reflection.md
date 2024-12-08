@@ -26,29 +26,17 @@ The story we wrote in advance of designing the interface followed a full-time em
 To adhere to Rebecca’s needs, we needed to build a platform that allows users to easily look at the works of others while also being able to attend to their own social media account, specifically so they can take commissions from followers who might be interested in their style and works. We wanted the UI to be intuitive to use and follow many universal traits/aspects of social media sites so that it’s easy to swap to but also offer features that are unique to our application -- such as the Commissions page and Commission Requests portal. 
 
 ### Sketches
-| | |
+|||
 | ----- | ----- |
 | ![A rough sketch of the Commissions Request page that we initially designed. This image displays a two-column view where the left column shows the users who are requesting commissions, and the right shows the commission itself in a “chat” format.](../../static/img/FP_comms.png) | ![A rough sketch of the Main feed page, which is a page that shows a piece of art on the left side and has the user’s information right of the image with the caption below the name and the ability to “like” the image via a heart icon or “comment” via a speech bubble icon.](../../static/img/FP_main.png) |
-| | |
 
 One of the initial steps of this project was to create rough sketches of the application we wanted to design. Katelyn and I divided the pages we worked on sketching and would review them jointly to make sure they matched the vision of the project we wanted to design. In these sketches, we wanted to mimic the layout of classic social media sites like Instagram, to allow users to view the art in a comfortable and easy-to-navigate manner. As such, we chose to keep an Instagram-esque layout for the main page, the profile page, and the page where a post can be expanded. For the profile, our main goal was to allow users to display a lot of art in a simple format — allowing people to get a quick overview of the user’s work at a bird’s eye view. For the Commissions-related pages, we took inspiration from Commissions pages we’ve seen from other artists to display and request commissions. Mainly, we drew inspiration from the sites we’ve used before as artists or have seen other artists use and tried to wrap those into a couple of designs that may create a platform that’s approachable for anyone.
 
 ### Initial Draft
 
-<table border="1">
-        <tr>
-            <td><img src="../../static/img/FP_comms_draft.png"
-                alt="A Figma draft of the Commissions Request page that we initially designed. This image displays a two-column view where the left column shows the users who are requesting commissions, and the right shows the commission itself in a “chat” format."></img>
-            </td>
-            <td><img src="../../static/img/FP_main_draft.png" 
-                alt="A Figma draft of the Main feed page, which is a page that shows a piece of art on the left side and has the user’s information right of the image with the caption below the name and the ability to “like” the image via a heart icon or “comment” via a speech bubble icon."></img>
-            </td>
-        </tr>
-</table>
-
-<!-- | | |
+| | |
+| - | - |
 |![A Figma draft of the Commissions Request page that we initially designed. This image displays a two-column view where the left column shows the users who are requesting commissions, and the right shows the commission itself in a “chat” format.](../../static/img/FP_comms_draft.png) | ![A Figma draft of the Main feed page, which is a page that shows a piece of art on the left side and has the user’s information right of the image with the caption below the name and the ability to “like” the image via a heart icon or “comment” via a speech bubble icon.](../../static/img/FP_main_draft.png) |
-| | | -->
 
 Afterwards, we created a more refined version of our sketches in Figma that would better illustrate the website's main colors, layout, and design overall. Above, you can see the first phase of this Figma draft shown on two pages. Below, I've attached a link to the full Figma mockup so you can see all the pages we created based on our round of sketching. 
 
