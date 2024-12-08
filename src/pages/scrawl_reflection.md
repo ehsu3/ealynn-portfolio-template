@@ -26,21 +26,38 @@ The story we wrote in advance of designing the interface followed a full-time em
 To adhere to Rebecca’s needs, we needed to build a platform that allows users to easily look at the works of others while also being able to attend to their own social media account, specifically so they can take commissions from followers who might be interested in their style and works. We wanted the UI to be intuitive to use and follow many universal traits/aspects of social media sites so that it’s easy to swap to but also offer features that are unique to our application -- such as the Commissions page and Commission Requests portal. 
 
 ### Sketches
-|||
-| ----- | ----- |
-| ![A rough sketch of the Commissions Request page that we initially designed. This image displays a two-column view where the left column shows the users who are requesting commissions, and the right shows the commission itself in a “chat” format.](../../static/img/FP_comms.png) | ![A rough sketch of the Main feed page, which is a page that shows a piece of art on the left side and has the user’s information right of the image with the caption below the name and the ability to “like” the image via a heart icon or “comment” via a speech bubble icon.](../../static/img/FP_main.png) |
+    <table>
+        <tc>
+            ![A rough sketch of the Commissions Request page that we initially designed. This image displays a two-column view where the left column shows the users who are requesting commissions, and the right shows the commission itself in a “chat” format.](../../static/img/FP_comms.png)
+        </tc>
+        <tc>
+            ![A rough sketch of the Main feed page, which is a page that shows a piece of art on the left side and has the user’s information right of the image with the caption below the name and the ability to “like” the image via a heart icon or “comment” via a speech bubble icon.](../../static/img/FP_main.png)
+        </tc>
+    </table>
 
 One of the initial steps of this project was to create rough sketches of the application we wanted to design. Katelyn and I divided the pages we worked on sketching and would review them jointly to make sure they matched the vision of the project we wanted to design. In these sketches, we wanted to mimic the layout of classic social media sites like Instagram, to allow users to view the art in a comfortable and easy-to-navigate manner. As such, we chose to keep an Instagram-esque layout for the main page, the profile page, and the page where a post can be expanded. For the profile, our main goal was to allow users to display a lot of art in a simple format — allowing people to get a quick overview of the user’s work at a bird’s eye view. For the Commissions-related pages, we took inspiration from Commissions pages we’ve seen from other artists to display and request commissions. Mainly, we drew inspiration from the sites we’ve used before as artists or have seen other artists use and tried to wrap those into a couple of designs that may create a platform that’s approachable for anyone.
 
 ### Initial Draft
-
-| | |
-| - | - |
-|![A Figma draft of the Commissions Request page that we initially designed. This image displays a two-column view where the left column shows the users who are requesting commissions, and the right shows the commission itself in a “chat” format.](../../static/img/FP_comms_draft.png) | ![A Figma draft of the Main feed page, which is a page that shows a piece of art on the left side and has the user’s information right of the image with the caption below the name and the ability to “like” the image via a heart icon or “comment” via a speech bubble icon.](../../static/img/FP_main_draft.png) |
+    <table>
+        <tc>
+            ![A Figma draft of the Commissions Request page that we initially designed. This image displays a two-column view where the left column shows the users who are requesting commissions, and the right shows the commission itself in a “chat” format.](../../static/img/FP_comms_draft.png)
+        </tc>
+        <tc>
+            ![A Figma draft of the Main feed page, which is a page that shows a piece of art on the left side and has the user’s information right of the image with the caption below the name and the ability to “like” the image via a heart icon or “comment” via a speech bubble icon.](../../static/img/FP_main_draft.png) 
+        </tc>
+    </table>
 
 Afterwards, we created a more refined version of our sketches in Figma that would better illustrate the website's main colors, layout, and design overall. Above, you can see the first phase of this Figma draft shown on two pages. Below, I've attached a link to the full Figma mockup so you can see all the pages we created based on our round of sketching. 
 
 ### Figma Mockup 2.0
+<div style={{ border: '1px solid rgba(0, 0, 0, 0.1)', width: '800px', height: '450px' }}>
+  <iframe
+    width="800"
+    height="450"
+    src="https://embed.figma.com/proto/pDaIbX1vtbzajjhYeQxZoB/scrawl-2.0?node-id=2006-670&node-type=canvas&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&embed-host=share" allowFullScreen
+  ></iframe>
+</div>
+
 * [Click Here to View the Figma Mockup!](https://www.figma.com/design/pDaIbX1vtbzajjhYeQxZoB/scrawl-2.0?node-id=0-1&t=USGzRZgGtw7fFgwu-1)
 
 ---
@@ -67,9 +84,22 @@ For this project, we did two rounds of user testing: one with students, our coll
 
 Here I’ve attached a version of the prototype made before we performed user tests, aka what Katelyn and I put together after our initial round of user interviews before we began designing. If you click the link below and go to the upper right corner to press the "play button" (triangle), you'll be able to interact with a very bare bones version of the site. Additionally, I've attached a gif that shows some of the main functionality you can explore when using the prototype below. There are more buttons that you can click on, but in the gif, I've shown a couple to try. 
 
+![A gif of how to use the Scrawl 3.0 prototype.](../../static/img/scrawl_gif.gif)
+
+The gif above demonstrates how a user can access and interact with the Scrawl prototype from within Figma itself, but I'll also attach an interactable embed below as well!
+
+<div style={{ border: '1px solid rgba(0, 0, 0, 0.1)', width: '800px', height: '450px' }}>
+  <iframe
+    width="800"
+    height="450"
+    src="https://embed.figma.com/proto/doacDGNSpOWhEmGeNBL5Ro/scrawl-3.0?node-id=2006-670&node-type=canvas&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2006%3A670&embed-host=share" allowFullScreen
+  ></iframe>
+</div>
+
+
 * [Scrawl Pre-User Tests](https://www.figma.com/design/doacDGNSpOWhEmGeNBL5Ro/scrawl-3.0?node-id=0-1&t=TffvE2URkA2bWv1p-1)
 
-![A gif of how to use the Scrawl 3.0 prototype.](../../static/img/scrawl_gif.gif)
+
 
 ### Round 1: Colleague Tests
 
@@ -96,6 +126,14 @@ We chose these changes specifically because they were crucial to the site’s fu
 * We added a search bar to the header of the main feed so that users can browse specific art.
 
 After adding these changes, we were a lot more confident in our site and its usability overall. Below, I’ve attached the final version of the application made after the two rounds of user tests (colleagues, art users). 
+
+<div style={{ border: '1px solid rgba(0, 0, 0, 0.1)', width: '800px', height: '450px' }}>
+  <iframe
+    width="800"
+    height="450"
+    src="https://embed.figma.com/proto/sife6gfHFYzVPmL5Oye0yW/scrawl-5.0?node-id=2006-670&node-type=canvas&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2006%3A670&embed-host=share" allowFullScreen
+  ></iframe>
+</div>
 
 * [Scrawl Post-User Tests](https://www.figma.com/design/sife6gfHFYzVPmL5Oye0yW/scrawl-5.0?t=TffvE2URkA2bWv1p-1)
 
